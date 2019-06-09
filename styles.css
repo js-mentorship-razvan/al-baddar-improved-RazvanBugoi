@@ -1,29 +1,49 @@
-.body {
+body {
     font-family: 'Roboto', sans-serif;
+    background-color: #0c0d0e;
+    color: white;
 }
 
 .carousel-header {
     font-weight: bold;
 }
 
-/* .row {
-    padding-top: .75rem;
-    padding-bottom: .75rem;
-    background-color: rgba(86,61,124,.15);
-    border: 1px solid; 
-    border-color: rgba(86,61,124,.2);
-} */
+.col-4 {
+   border: 2px solid;
+}
+
+.col-8 {
+    padding-right: 69px;
+}
 
 .header2 {
     font-weight: bold;
+    color: white;
     text-align: center;
 }
 
 .content-text-bold {
     font-weight: bold;
+    color: white;
     text-align: center;
 }
 
 .content-text {
     text-align: center;
+    color: white;
 }
+
+.container {
+    max-width: 1024px;
+    margin-top: 20px;
+    padding: 0 !important;
+}
+
+.carousel-caption {
+    text-shadow: 3px 3px 2px black;
+}
+
+.row {
+    padding-right: 15px;
+}
+
