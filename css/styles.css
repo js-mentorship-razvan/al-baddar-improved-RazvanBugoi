@@ -52,3 +52,13 @@ body {
     text-align: center;
 }
 
+a {
+    color: #72D3D4;
+}
+
+.logo {
+    font-size: 3em;
+    color: #72D3D4;
+    margin-right: 15px;
+}
+
