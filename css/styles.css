@@ -1,3 +1,5 @@
+/* Homepage */
+
 body {
     font-family: 'Roboto', sans-serif;
     background-color: #0c0d0e;
@@ -62,3 +64,27 @@ a {
     margin-right: 15px;
 }
 
+
+/* Gallery */
+
+h4 {
+    font-weight: bold;
+}
+
+.Henfield-mens-branch, .Henfield-ladies-branch {
+    margin-top: 20px;
+}
+
+img {
+    margin: 5px;
+}
+
+#owner-photo {
+    display: block;
+    margin: 20px auto;
+}
+
+.imglist {
+    width: 700px;
+    max-width: 700px;
+}
