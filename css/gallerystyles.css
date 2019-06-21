@@ -5,12 +5,25 @@ body {
 }
 
 
+.container {
+    margin-top: 25px;
+}
+
 .header2 {
     font-weight: bold;
     color: white;
-    text-align: left;
+    text-align: center;
 }
 
+
+
+.carousel-header {
+    font-weight: bold;
+}
+
+.Henfield-mens-branch, .Henfield-ladies-branch {
+    margin-top: 20px;
+}
 
 h4 {
     font-weight: bold;
@@ -18,4 +31,25 @@ h4 {
 
 img {
     margin: 5px;
+}
+
+.content-text-bold {
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+.content-text {
+    text-align: center;
+    color: white;
+}
+
+.phone-number {
+    display: block;
+    text-align: center;
+}
+
+#owner-photo {
+    display: block;
+    margin: 20px auto;
 }
