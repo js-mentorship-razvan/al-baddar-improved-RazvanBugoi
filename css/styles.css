@@ -18,6 +18,10 @@ body {
     padding-right: 69px;
 }
 
+.special-occassions {
+    margin-top: 23px;
+}
+
 .header2 {
     font-weight: bold;
     color: white;
@@ -64,6 +68,10 @@ a {
     margin-right: 15px;
 }
 
+.Henfield-ladies-branch-homepage, .Henfield-mens-branch-homepage {
+    margin: 15px 0;
+}
+
 
 /* Gallery */
 
@@ -80,6 +88,11 @@ h4 {
 
 img {
     margin: 5px;
+    transition: all 1s;
+}
+
+img:hover{
+    transform: scale(1.1);
 }
 
 #owner-photo {
