@@ -96,10 +96,13 @@ h4 {
 
 img {
     margin: 5px;
+}
+
+.gallery-image {
     transition: all 1s;
 }
 
-img:hover{
+.gallery-image:hover{
     transform: scale(1.1);
 }
 
