@@ -71,6 +71,9 @@ h4 {
     font-weight: bold;
 }
 
+#branches {
+    margin: 60px auto;
+}
 .Henfield-mens-branch, .Henfield-ladies-branch {
     margin-top: 20px;
 }
@@ -81,7 +84,7 @@ img {
 
 #owner-photo {
     display: block;
-    margin: 20px auto;
+    margin: 50px auto;
 }
 
 .imglist {
