@@ -14,8 +14,9 @@ body {
    border: 2px solid;
 }
 
-.col-8 {
-    padding-right: 69px;
+.col-8, .col-4 {
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .special-occassions {
@@ -119,6 +120,15 @@ img {
 
 /* Pricing */
 
+ul {
+    padding-right: 20px;
+}
+
 li {
     list-style: none;
 }
+
+.Henfield-mens-branch-pricing, .Henfield-ladies-branch-pricing {
+    margin: 20px auto;
+}
+
