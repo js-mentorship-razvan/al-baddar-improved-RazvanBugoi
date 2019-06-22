@@ -62,6 +62,14 @@ a {
     color: #72D3D4;
 }
 
+a:hover {
+    color: #A1A1D4;
+}
+
+.header-link:hover {
+    color: #A1A1D4;
+}
+
 .logo {
     font-size: 3em;
     color: #72D3D4;
