@@ -67,6 +67,10 @@ a:hover {
     color: #A1A1D4;
 }
 
+.header-link {
+    color: black;
+}
+
 .header-link:hover {
     color: #A1A1D4;
 }
