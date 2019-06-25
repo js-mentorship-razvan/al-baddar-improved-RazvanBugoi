@@ -85,7 +85,7 @@ a:hover {
     margin-right: 15px;
 }
 
-.Henfield-ladies-branch-homepage, .Henfield-mens-branch-homepage {
+.henfield-ladies-branch-homepage, .henfield-mens-branch-homepage {
     margin: 15px 0;
 }
 
@@ -99,7 +99,7 @@ h4 {
 #branches {
     margin: 60px auto;
 }
-.Henfield-mens-branch, .Henfield-ladies-branch {
+.henfield-mens-branch, .henfield-ladies-branch {
     margin-top: 20px;
 }
 
@@ -137,7 +137,7 @@ li {
     list-style: none;
 }
 
-.Henfield-mens-branch-pricing, .Henfield-ladies-branch-pricing {
+.henfield-mens-branch-pricing, .henfield-ladies-branch-pricing {
     margin: 20px auto;
 }
 
