@@ -35,10 +35,6 @@ body {
     text-align: center;
 }
 
-.text-description-homepage, .content-text, .header2-special-ocassions {
-    margin-left: 1rem;
-}
-
 .content-text {
     text-align: center;
     color: white;
@@ -89,6 +85,11 @@ a:hover {
     margin: 15px 0;
 }
 
+@media screen and (min-device-width: 481px) and (max-device-width: 1200px) { 
+    .homepage-col8 {
+        margin-left: 1rem;
+    }
+}
 
 /* Gallery */
 
