@@ -43,15 +43,15 @@ body {
 .container {
     max-width: 1024px;
     margin-top: 20px;
-    padding: 0 !important;
 }
 
 .carousel-caption {
     text-shadow: 3px 3px 2px black;
 }
 
-.row {
-    padding-right: 15px;
+.mid-section {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
 }
 
 .phone-number {
